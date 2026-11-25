@@ -1,7 +1,7 @@
 ---
 name: Ticket AMS
 about: Alta de ticket del servicio SAP AMS
-title: "[RT] [SID-XXX] Título del ticket"
+title: "[RT] Título del ticket"
 labels: []
 projects: ["PampaGR1/1"]
 ---
@@ -13,4 +13,3 @@ projects: ["PampaGR1/1"]
 **Contacto cliente:** 
 
 ---
-_El seguimiento se registra en los comentarios, una entrada por novedad._****
