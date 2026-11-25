@@ -9,7 +9,7 @@ projects: ["PampaGR1/1"]
 **Número PO:** 
 **Número RT:** 
 **TK Cliente:** 
-**Alcance:** 
+**Asunto email: [Pampa SAP #XXXX]** 
 **Contacto cliente:** 
 
 ---
