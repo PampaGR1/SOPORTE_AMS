@@ -6,10 +6,10 @@ labels: []
 projects: ["PampaGR1/1"]
 ---
 
-**Número PO:** 
-**Número RT:** 
-**TK Cliente:** 
-**Asunto email: [Pampa SAP #XXXX]** 
-**Contacto cliente:** 
+**Número PO:  
+Número RT:  
+TK Cliente:  
+Asunto email: [Pampa SAP #XXXX]
+Contacto cliente:** 
 
 ---
